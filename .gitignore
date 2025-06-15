@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# SQLite DB
+*.sqlite3
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyInstaller
+*.spec
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Flask Migrate (если подключишь миграции)
+migrations/
+
+# Byte-compiled
+*.pyo
